@@ -21,7 +21,7 @@ Python based nyaa.si RSS reader with Category filter and web interface
 
 # Things to do:
 
-- [] Make Sukebei a thing
-- [] Display more tags (You can do this one just rewrite the code)
-- [?] Make it so that the script run in the server??
-- [] Other thing commented in the code
+- [ ] Make Sukebei a thing
+- [ ] Display more tags (You can do this one just rewrite the code)
+- [ ] Make it so that the script run in the server??
+- [ ] Other thing commented in the code
