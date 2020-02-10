@@ -7,10 +7,10 @@ Python based nyaa.si RSS reader with Category filter and web interface
 
 # How to build:
 
-  -Download Python3.7 or newer
-  -Install the packages from the **requirements.txt**
-  -Configure the **config.json** to your liking
-  -Use Apache or other shit to run the site, and run the Python script (Working on making it into one)
+  - Download Python3.7 or newer
+  - Install the packages from the **requirements.txt**
+  - Configure the **config.json** to your liking
+  - Use Apache or other shit to run the site, and run the Python script (Working on making it into one)
 
 # It can do:
 
