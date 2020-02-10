@@ -1,0 +1,26 @@
+{
+    "refreshrate" : 3600,
+    "PrintToConsole?" : false,
+    "WriteToFile?" : true,
+    "savetopath" : "./file.txt",
+    "checktrusted" : 1,
+    "categorys": {
+        "Anime - Anime Music Video" : 1,
+        "Anime - English-translated" : 1,
+        "Anime - Non-English-translated" : 1,
+        "Anime - Raw" : 1,
+        "Audio - Lossless" : 1,
+        "Audio - Lossy" : 1,
+        "Literature - English-translated": 1,
+        "Literature - Non-English-translated": 1,
+        "Literature - Raw": 1,
+        "Live Action - English-translated": 1,
+        "Live Action - Idol/Promotional Video": 1,
+        "Live Action - Non-English-translated": 1,
+        "Live Action - Raw": 1,
+        "Pictures - Graphics": 1,
+        "Pictures - Photos": 1,
+        "Software - Applications": 1,
+        "Software - Games": 1
+}
+}
