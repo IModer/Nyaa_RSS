@@ -21,7 +21,7 @@ refreshrate = config["refreshrate"]
 
 #Check with config
 def check(a, b, c):
-    #a = kategória
+    #a = kategoria || igen rovid o mert 2.7 ben nem fut le vele
     #b = istrusted
     #c = hash
     if checktrusted == 1 and b == "Yes":
