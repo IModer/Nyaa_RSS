@@ -55,3 +55,21 @@ function myparse() {
   xmlhttp.open("GET", "data.json", true);
   xmlhttp.send();
 }
+
+function my_search(){
+	var input, filter, entries, divs, e, i, txtValue;
+    input = document.getElementById("myInput");
+    filter = input.value.toUpperCase();
+    entries = document.getElementById("div1");
+    divs = entries.getElementsByClassName("entry");
+    for (i = 0; i < divs.length; i++) {
+        e = divs[i].getElementsByTagName("p")[0];
+		d = divs[i].getElementsByClassName("detail")[0];
+        txtValue = e.textContent || e.innerText;
+        if (txtValue.toUpperCase().indexOf(filter) > -1) {
+            divs[i].style.display = "";
+        } else {
+            divs[i].style.display = "none";
+        }
+    }
+}
