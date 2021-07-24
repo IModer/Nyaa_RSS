@@ -1,7 +1,7 @@
 # Nyaa_RSS
 Python based nyaa.si RSS reader with Category filter and web interface
 
-# Whats this? OwO
+# Whats this?
   A shitty html to show your lastest nyaa.si torrents
   It uses [FEEDPARSER](https://pypi.org/project/feedparser/) by *Kurt McKee*
 
@@ -23,7 +23,6 @@ Python based nyaa.si RSS reader with Category filter and web interface
 # Things to do:
 
 - [x] Search!
-- [ ] Make Sukebei a thing **Working on it**
+- [ ] Make Sukebei a thing **Working on it** **(Not really)**
 - [ ] Display more tags (You can do this one just rewrite the code)
-- [ ] Make it into one webapp
 - [ ] Other things commented in the code
